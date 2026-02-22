@@ -119,11 +119,9 @@ Architecture consulting
 
 ## Connect With Me
 
-LinkedIn  
-Portfolio  
-Email
-
-(links can be added here)
+![LinkedIn](https://www.linkedin.com/in/dinesh-wijethunga)
+![Portfolio](https://dineshwijethunga.me)
+![Email Me](dineshlwuae@gmail.com)
 
 ---
 
