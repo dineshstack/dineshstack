@@ -7,6 +7,7 @@ I build scalable, secure, production-grade web platforms used by businesses acro
 With 10+ years of experience in software engineering, I specialize in system architecture, payment systems, cloud infrastructure, and high-performance applications.
 
 🎓 BSc (Hons) Computing – UK
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshstack&label=Profile views&color=0e75b6&style=flat" alt="dineshstack" /> </p>
 
 ![Laravel](https://img.shields.io/badge/Laravel-Expert-red)
 ![React](https://img.shields.io/badge/React-Advanced-blue)
